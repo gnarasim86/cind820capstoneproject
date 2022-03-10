@@ -15,3 +15,7 @@ Objective: To attain a greater understanding of Collaborative Filters and Contes
 What performance can collaborative filtering produce movie recommendations based on the related dataset.
 DataSet
 https://grouplens.org/datasets/movielens/
+References 
+https://www150.statcan.gc.ca/n1/pub/45-28-0001/2021001/article/00027-eng.htm
+https://www.nytimes.com/interactive/2020/04/07/technology/coronavirus-internet-use.html
+https://towardsdatascience.com/introduction-to-recommender-systems-6c66cf15ada
